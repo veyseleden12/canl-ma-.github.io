@@ -1,0 +1,36 @@
+#textBody {
+    color: rgb(241, 24, 24);
+    }
+    
+    #backgroundBody{
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-position: center center;
+      background:url(galatasarayBody.jpg.jpg);
+      background-size: cover;
+      background-color: #464646;
+    }
+      
+    .social-icons li {
+        display:inline-block;
+        list-style-type:none;
+        -webkit-user-select:none;
+        -moz-user-select:none;
+        }
+        
+      .social-icons li img {
+        padding: 30px;
+        font-size: 30px;
+        width: 40px;
+        text-align: center;
+        text-decoration: none;
+        margin: 10px 8px; 
+        border-radius: 50%;
+         
+        color: #ff5454;
+      }
+    
+      .social-icons:hover{
+          opacity: 0.7;
+      }
+    
